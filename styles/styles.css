@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana;
+    background-color: #B2ED87;
+    color: #210A41;
+}
+
+ul,
+ol {
+    background-color: #B1CAF3;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
